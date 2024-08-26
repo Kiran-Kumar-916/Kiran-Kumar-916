@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @Kiran-Kumar-916
 - DotNet develoepr
+
+- Visual Basic .NET | Visual Basic 6 | Microsoft .NET Framework |
+- Microsoft Visual Studio | Microsoft Excel VBA (Visual Basic for
+- Applications) - macro coding | Basics of Python | Basics of C# | OOP
+- concept | SQL Server Management Studio | SQLite | ADO.NET | Regular
+- Expression | Beyond Compare | Microsoft Excel | Microsoft Word |
+- Programming, Analytical, logical skills
   
 * 6+ years of software development experience in product based company.
 * Taken on responsibility for planning, designing user interface.
