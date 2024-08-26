@@ -3,7 +3,7 @@
 
 - Visual Basic .NET | Visual Basic 6 | Microsoft .NET Framework |
 - Microsoft Visual Studio | Microsoft Excel VBA (Visual Basic for Applications) - macro coding |
-- Basics of Python | Basics of C# | OOP concept |
+- Basics of Python | Basics of C# | OOP concept | SOLID Design Principles |
 - SQL Server Management Studio | SQLite | ADO.NET | 
 - Regular Expression | Beyond Compare | Microsoft Excel | Microsoft Word |
 - Programming, Analytical, logical skills
