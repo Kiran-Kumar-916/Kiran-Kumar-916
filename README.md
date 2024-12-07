@@ -8,7 +8,7 @@
 - Regular Expression | Beyond Compare | Microsoft Excel | Microsoft Word |
 - Programming, Analytical, logical skills
   
-* 6+ years of software development experience in product based company.
+* 6 years of software development experience in product based company.
 * Taken on responsibility for planning, designing user interface.
 * Developing and maintaining WinForms applications.
 * Applied OOP Concepts , tested and reviewed codes for improving the
