@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiran-Kumar-916
 - DotNet develoepr
-
+* 6+ years of software development experience in product based company.
 - Visual Basic .NET | C# | ASP.NET Core MVC | Visual Basic 6 | Microsoft .NET Framework |
 - Microsoft Visual Studio | Microsoft Excel VBA (Visual Basic for Applications) - macro coding | Web API |
 - OOP concept | SOLID Design Principles |
@@ -11,7 +11,6 @@
 - Basics of Python | HTML | Basics of CSS | 
 - Programming | Analytical | logical skills |
   
-* 6+ years of software development experience in product based company.
   
 * Taken on responsibility for planning, designing user interface.
   
